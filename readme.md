@@ -51,6 +51,9 @@ cd cuda_mandelbrot
 make
 ```
 
+<p align="center">
+  <img src="./static/2.gif">
+</p>
 
 ## Resources
 
